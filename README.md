@@ -10,6 +10,14 @@ Here are the commands to use my programs :
 
 `cd My_Python_Projects`    
 
+For macOS / Linux :  
+
 `python3 (the_name_of_the_program).py`    
 
-I hope you'll like them and if there is a problem, feel free to send me a feedback.
+
+For Windows :  
+
+`python "name_of_the_program.py"`  
+
+
+I hope you'll like them and if there is a problem, feel free to send me a feedback.  
