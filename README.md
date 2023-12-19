@@ -13,12 +13,12 @@ Open a terminal and type these commands :
 
 For macOS / Linux :  
 
-`python3 (the_name_of_the_program).py`    
+`python3 main.py`    
 
 
 For Windows :  
 
-`python "name_of_the_program.py"`  
+`python "main.py"`  
 
 
 I hope you'll like them and if there is a problem, feel free to send me a feedback.  
